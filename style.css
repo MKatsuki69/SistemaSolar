@@ -1,0 +1,11 @@
+body{
+   background-image: url(img/fondo2.jpeg);
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed; 
+   color:aliceblue
+}
+h1{
+    color:azure
+}
